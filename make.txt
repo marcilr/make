@@ -1,0 +1,13 @@
+make.txt
+Created Mon Jul  3 09:29:42 AKDT 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+GNU Make
+
+
+Links
+=====
+GNU Make
+https://www.gnu.org/s/make/manual/make.html
+
